@@ -4,3 +4,8 @@ Repositorio para clases de Ingeniería de Software II
 Ejecución y pruebas:
 $ javac src/main/java/com/universidad/Main.java -d out
 $ java -cp out pe.edu.ulima.is2.Main
+
+Subir a repositorio en github
+git add .
+git commit -m "Modifiqué xd"
+git push
