@@ -14,7 +14,7 @@ public class Main {
         seresHumanos[2] = new SerHumano("Pedro", 40, "11223344");
         int[] numeros = new int[3];
         //int numero = null;
-        foreach
+        //foreach
 
     }
 }
