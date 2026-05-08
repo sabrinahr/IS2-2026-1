@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Edad: " + serHumano.getEdad());
         System.out.println("DNI: " + serHumano.getDni());
 
-        Serhumano[] seresHumanos = new SerHumano[3];
+        Serhumano[] seresHumanos = new SerHumano[3];    
         seresHumanos[0] = null;
         seresHumanos[1] = new SerHumano("Maria", 25, "87654321");
         seresHumanos[2] = new SerHumano("Pedro", 40, "11223344");
