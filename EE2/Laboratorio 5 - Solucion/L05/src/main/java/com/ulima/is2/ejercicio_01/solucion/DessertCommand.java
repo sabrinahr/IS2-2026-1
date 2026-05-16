@@ -1,4 +1,4 @@
-package com.ulima.is2.ejercicio_01.solución;
+package com.ulima.is2.ejercicio_01.solucion;
 
 public class DessertCommand implements Command {
     private Kitchen kitchen;

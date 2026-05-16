@@ -1,5 +1,4 @@
-package com.ulima.is2.ejercicio_01.solución;
-
+package com.ulima.is2.ejercicio_01.solucion;
 public class Main {
     public static void main(String[] args) {
 
